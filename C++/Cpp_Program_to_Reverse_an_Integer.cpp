@@ -5,7 +5,7 @@ int main() { // main ftn
 
   int n, reversed_number = 0, remainder;
 
-  cout << "Enter an integer: ";
+  cout << "Enter an number: ";
   cin >> n;
 
   while(n != 0) {
